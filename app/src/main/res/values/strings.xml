@@ -1,0 +1,62 @@
+<resources>
+    <!-- Tour around -->
+    <string name="app_name">Tour Around</string>
+
+    <string name="Mosques">Mosques</string>
+
+    <string name="Restorant">Restorant</string>
+
+    <string name="Historical">Historical</string>
+
+    <string name="Hotel">Hotel</string>
+    <!-- -->   <!-- -->   <!-- -->   <!-- -->   <!-- -->
+    <!-- Name-->
+
+    <string name="FairmontNile">Fairmont Nile</string>
+    <string name="Foursesons">Four Seasons</string>
+    <string name="RamsesHilton">Ramses Hilton</string>
+    <string name="NileRitzCarlton">Nile Ritz-Carlton</string>
+
+    <string name="Egyptmuseum">Egypt museum</string>
+    <string name="Pyramids">Pyramids</string>
+    <string name="Vellageofkings">Vellage Of Kings</string>
+    <string name="Abosombol">Abu Simbel temples</string>
+
+
+    <string name="abouelsid">abouelsid</string>
+    <string name="alakeel">Al Akeel </string>
+    <string name="alsraya">Al Sraya</string>
+    <string name="balbaa">Balbaa</string>
+
+    <string name="alazhar">Mosque of Al Azhar</string>
+    <string name="ibntolon">Mosque of Ibn Tulun </string>
+    <string name="mohamedali">Mosque of Muhammad Ali</string>
+    <string name="amrabnalas">Mosque of Amr ibn al-As</string>
+
+
+    <!-- -->   <!-- -->   <!-- -->   <!-- -->   <!-- -->
+    <!-- description-->
+
+    <string name="des_Firmont">Located in the Nile City Towers by the River Nile, this 5-star hotel features a rooftop pool deck with spectacular views across Cairo to the Pyramids. It offers 7 food and beverage venues.</string>
+    <string name="des_Fourseason">Enjoying impressive views of Cairo’s skyline and the Pyramids, The Four Seasons Hotel in Cairo’s Gizah district features a full-service spa and outdoor pool. The Nile River is just 100 metres away.</string>
+    <string name="des_Ramseshilton">Overlooking the Nile River and just a 5-minute walk from the Cairo Museum, the Ramses Hilton boasts an elevated pool terrace heated in the winter, an on-site casino and gym.</string>
+    <string name="des_Nileritzcarlton">Situated in the heart of Cairo lies the iconic Nile Ritz-Carlton Cairo, situated between the Nile river, Tahrir square and adjacent to the Egyptian Museum.</string>
+
+
+    <string name="des_Egyptmuseum">The Egyptian Museum in Cairo, also known as the Museum of Egyptian Antiquities, is home to more than 120,000 pieces of ancient Egypt.</string>
+    <string name="des_Pyramids">The Egyptian pyramids are ancient pyramid-shaped masonry structures located in Egypt. As of November 2008, sources cite either 118 or 138 as the number of identified Egyptian pyramids. Wikipedia Did you know: The pyramids were originally covered by casing stones made of highly polished white limestone</string>
+    <string name="des_Vellageofkings">The Valley of the Kings, also known as the Valley of the Gates of the Kings, is a valley in Egypt where, for a period of nearly 500 years from the 16th to 11th century BC, rock cut tombs were excavated </string>
+    <string name="des_AbuSimbeltemples">The Abu Simbel temples are two massive rock temples at Abu Simbel, a village in Nubia, southern Egypt, near the border with Sudan. They are situated on the western bank of Lake Nasser, about 230 km southwest of Aswan</string>
+
+    <string name="des_abouelsid">Grey Goose Vodka and cranberry cocktails at restaurants in July ,when we get sick of cooking dinner at home, we like to go out to eat at a nice restaurant</string>
+    <string name="des_alakeel">Located in the Nile City Towers by the River Nile, this 5-star hotel features a rooftop pool deck with spectacular views across Cairo to the Pyramids. It offers 7 food and beverage venues. </string>
+    <string name="des_alsraya">Overlooking the Nile River and just a 5-minute walk from the Cairo Museum, the Ramses Hilton boasts an elevated pool terrace heated in the winter, an on-site casino and gym.</string>
+    <string name="des_balbaa">when we get sick of cooking dinner at home, we like to go out to eat at a nice restaurant , Jade Anderson, 24, was upset with her order Thursday night at the China 1 restaurant in Mount Clemons, The Macomb Daily reported.</string>
+
+
+    <string name="des_alazhar">Al-Azhar Mosque is an Egyptian mosque in Islamic Cairo , li-Din Allah of the Fatimid dynasty commissioned its construction for the newly established capital city in 970.</string>
+    <string name="des_ibntolon">The Mosque of Ibn Tulun is located in Cairo, Egypt. It is the oldest mosque in the city surviving in its original form, and is the largest mosque in Cairo in terms of land area. </string>
+    <string name="des_mohamedali">The Great Mosque of Muhammad Ali Pasha or Alabaster Mosque is a mosque situated in the Citadel of Cairo in Egypt and commissioned by Muhammad Ali Pasha between 1830 and 1848.</string>
+    <string name="des_amrabnalas">The Mosque of Amr ibn al-As, also called the Mosque of Amr, was originally built in 641–642 AD, as the center of the newly founded capital of Egypt, Fustat. The original structure was the first mosque ever built in Egypt and the whole of Africa.</string>
+
+</resources>
